@@ -1,0 +1,7 @@
+2024-07-20 10:52:17,334 - Found credentials in shared credentials file: ~/.aws/credentials
+2024-07-20 10:52:17,705 - Backup completed successfully.
+2024-07-20 10:53:47,436 - Found credentials in shared credentials file: ~/.aws/credentials
+2024-07-20 10:53:47,596 - Backup completed successfully.
+2024-07-20 11:04:30,366 - Found credentials in shared credentials file: ~/.aws/credentials
+2024-07-20 11:04:32,352 - Uploaded C:\Users\Desktop\test-BACKUP\Accuknox-DevOps-Trainee-Practical-Assessment_2024.pdf to s3://backup-bucket11/backup/Accuknox-DevOps-Trainee-Practical-Assessment_2024.pdf
+2024-07-20 11:04:32,352 - Backup completed successfully.
