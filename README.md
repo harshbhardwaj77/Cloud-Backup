@@ -1,6 +1,6 @@
 # Cloud-Backup
 Python Script to Backup data to AWS S3 
-# S3 Backup Utility
+
 
 This script performs a backup of a local directory to an Amazon S3 bucket. It recursively uploads files from the specified source directory to the S3 bucket, with an optional prefix for organizing files in the bucket.
 
