@@ -25,4 +25,4 @@ This script performs a backup of a local directory to an Amazon S3 bucket. It re
 
 2. Run the script:
    ```bash
-   python backup_script.py
+   python Backup.py
